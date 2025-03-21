@@ -35,7 +35,7 @@ h2 {
 }
 
 .contact a {
-    color: #007bff;
+    color: #bf40bf;
     text-decoration: none;
 }
 
@@ -76,4 +76,12 @@ h2 {
     padding: 5px 10px;
     margin: 5px 5px 5px 0;
     border-radius: 4px;
+}
+
+.projects a {
+    color: #bf40bf;
+}
+
+#borderless {
+    border: 0;
 }
