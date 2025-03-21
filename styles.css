@@ -78,10 +78,7 @@ h2 {
     border-radius: 4px;
 }
 
-.projects a {
+a {
     color: #bf40bf;
-}
-
-#borderless {
-    border: 0;
+    text-decoration: none;
 }
